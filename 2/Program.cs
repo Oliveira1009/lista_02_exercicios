@@ -1,0 +1,2 @@
+﻿// Um usuário quer calcular suas despesas mesnsais. O exercicio consiste em solicitar ao usuário que insira suas despesas até que ele digite u valor negativo,sinalizando o fim da entrada. O aluno deve somar as despesas e apresentar o tottaal, utilizando while, do while e for.
+//
